@@ -1,1 +1,0 @@
-# mattermost-responder-plugin
